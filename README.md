@@ -1,1 +1,1 @@
-# YOLO - You Only Look Once - Object Detection Algorithm
+# YOLO - Object Detection Algorithm
